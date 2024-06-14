@@ -71,6 +71,6 @@ npm run test:e2e
 npm run lint
 ```
 
-Thank you for considering my application. I'd love to hear your feedback! :)"
+Thank you for considering my application. I'd love to hear your feedback! :)
 
 Tom
